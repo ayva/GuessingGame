@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  padding: 15px;
+}
+
+.form-inline .form-control {
+  width: 100%;
+}
+.form-inline .btn {
+  width: 100%;
+}
+
+.btn-group .btn {
+  margin-top: 10px;
+}
